@@ -8,6 +8,8 @@
 
 ### 👨‍💻 About Me
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radjiv333&layout=compact&theme=tokyonight" height="165" /></p>
+
 I’m a developer who loves building scalable, elegant, and impactful software.  
 I focus on writing clean, maintainable code and constantly improving my problem-solving skills.
 
@@ -21,23 +23,15 @@ I focus on writing clean, maintainable code and constantly improving my problem-
 ### 🧰 Tech Stack
 
 #### 🚀 Languages & Frameworks
-`Python` `Go`
+`Go`
 
 #### 🛠️ Tools & Platforms
-`Git` `GitHub` `Docker` `PostgreSQL`
+`Git` `GitHub` `PostgreSQL` `Rabbit MQ` `Redis`
 `VS Code` `Linux`
 
 #### ☁️ Cloud & DevOps
 `AWS` `Docker` `Docker Compose`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radjiv333&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radjiv333&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
